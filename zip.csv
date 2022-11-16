@@ -1,71 +1,71 @@
-no,Zipcode,City,County
-1,98178,Seattle,King County
-2,98125,Seattle,King County
-3,98028,Kenmore,King County
-4,98136,Seattle,King County
-5,98074,Sammamish,King County
-6,98053,Redmond,King County
-7,98003,Federal Way,King County
-8,98198,Seattle,King County
-9,98146,Seattle,King County
-10,98038,Maple Valley,King County
-11,98007,Bellevue,King County
-12,98115,Seattle,King County
-13,98107,Seattle,King County
-14,98126,Seattle,King County
-15,98019,Duvall,King County
-16,98103,Seattle,King County
-17,98002,Auburn,King County
-18,98133,Seattle,King County
-19,98040,Mercer Island,King County
-20,98092,Auburn,King County
-21,98030,Kent,King County
-22,98119,Seattle,King County
-23,98112,Seattle,King County
-24,98052,Redmond,King County
-25,98027,Issaquah,King County
-26,98117,Seattle,King County
-27,98058,Renton,King County
-28,98001,Auburn,King County
-29,98056,Renton,King County
-30,98166,Seattle,King County
-31,98023,Federal Way,King County
-32,98070,Vashon,King County
-33,98148,Seattle,King County
-34,98105,Seattle,King County
-35,98042,Kent,King County
-36,98008,Bellevue,King County
-37,98059,Renton,King County
-38,98122,Seattle,King County
-39,98144,Seattle,King County
-40,98004,Bellevue,King County
-41,98005,Bellevue,King County
-42,98034,Kirkland,King County
-43,98075,Sammamish,King County
-44,98116,Seattle,King County
-45,98010,Black Diamond,King County
-46,98118,Seattle,King County
-47,98199,Seattle,King County
-48,98032,Kent,King County
-49,98045,North Bend,King County
-50,98102,Seattle,King County
-51,98077,Woodinville,King County
-52,98108,Seattle,King County
-53,98168,Seattle,King County
-54,98177,Seattle,King County
-55,98065,Snoqualmie,King County
-56,98029,Issaquah,King County
-57,98006,Bellevue,King County
-58,98109,Seattle,King County
-59,98022,Enumclaw,King County
-60,98033,Kirkland,King County
-61,98155,Seattle,King County
-62,98024,Fall City,King County
-63,98011,Bothell,King County
-64,98031,Kent,King County
-65,98106,Seattle,King County
-66,98072,Woodinville,King County
-67,98188,Seattle,King County
-68,98014,Carnation,King County
-69,98055,Renton,King County
-70,98039,Medina,King County
+zipcode,City,County,Distric
+98199,Seattle,King County,7
+98198,Seattle,King County,1
+98188,Seattle,King County,2
+98178,Seattle,King County,2
+98177,Seattle,King County,5
+98168,Seattle,King County,2
+98166,Seattle,King County,1
+98155,Seattle,King County,5
+98148,Seattle,King County,1
+98146,Seattle,King County,1
+98144,Seattle,King County,3
+98136,Seattle,King County,1
+98133,Seattle,King County,5
+98126,Seattle,King County,1
+98125,Seattle,King County,5
+98122,Seattle,King County,3
+98119,Seattle,King County,7
+98118,Seattle,King County,2
+98117,Seattle,King County,6
+98116,Seattle,King County,1
+98115,Seattle,King County,4
+98112,Seattle,King County,3
+98109,Seattle,King County,7
+98108,Seattle,King County,2
+98107,Seattle,King County,6
+98106,Seattle,King County,1
+98105,Seattle,King County,4
+98103,Seattle,King County,6
+98102,Seattle,King County,3
+98092,Auburn,King County,
+98077,Woodinville,King County,
+98075,Sammamish,King County,
+98074,Sammamish,King County,
+98072,Woodinville,King County,
+98070,Vashon,King County,
+98065,Snoqualmie,King County,
+98059,Renton,King County,
+98058,Renton,King County,
+98056,Renton,King County,
+98055,Renton,King County,
+98053,Redmond,King County,
+98052,Redmond,King County,
+98045,North Bend,King County,
+98042,Kent,King County,
+98040,Mercer Island,King County,
+98039,Medina,King County,
+98038,Maple Valley,King County,
+98034,Kirkland,King County,
+98033,Kirkland,King County,
+98032,Kent,King County,
+98031,Kent,King County,
+98030,Kent,King County,
+98029,Issaquah,King County,
+98028,Kenmore,King County,
+98027,Issaquah,King County,
+98024,Fall City,King County,
+98023,Federal Way,King County,
+98022,Enumclaw,King County,
+98019,Duvall,King County,
+98014,Carnation,King County,
+98011,Bothell,King County,
+98010,Black Diamond,King County,
+98008,Bellevue,King County,
+98007,Bellevue,King County,
+98006,Bellevue,King County,
+98005,Bellevue,King County,
+98004,Bellevue,King County,
+98003,Federal Way,King County,
+98002,Auburn,King County,
+98001,Auburn,King County,
