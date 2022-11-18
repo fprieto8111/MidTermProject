@@ -14,7 +14,7 @@ Years: 2014-15.
 
 High-level Planning of the project, e.g:
 Day 1 -
- Understanding variables and setting threlevanceance for the model.
+ Understanding variables and setting their levanceance for the model.
 Day 2 - 
 Create and fit the model.
 Day 3- 
